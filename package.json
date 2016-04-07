@@ -1,0 +1,8 @@
+{
+  "name": "filebutton",
+  "version": "1.0.0",
+  "author": "Tristan Berger <tristanberger@gmail.com>",
+  "repository": "twhb/filebutton.js",
+  "license": "MIT",
+  "main": "main.js"
+}
