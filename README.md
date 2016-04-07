@@ -1,6 +1,8 @@
 # filebutton.js
 
-Creates a button that acts like a file input. Supports:
+Creates a button that acts like a file input.
+
+Supports:
 
 - `.files`
 - `.multiple`
@@ -10,7 +12,7 @@ Creates a button that acts like a file input. Supports:
 
 ## API
 
-Export is a function that creates the FileButton. Takes no parameters.
+`FileButton()`: returns a new FileButton.
 
 ## Setup
 
