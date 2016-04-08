@@ -6,13 +6,16 @@ Supports:
 
 - `.files`
 - `.multiple`
+- `.accept`
 - `change` event
 - Input via click-and-select
 - Input via drag-and-drop
 
 ## API
 
-`FileButton()`: returns a new FileButton.
+`FileButton()`
+
+Returns a new FileButton.
 
 ## Setup
 
