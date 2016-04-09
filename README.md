@@ -15,7 +15,7 @@ Supports:
 
 `FileButton()`
 
-Returns a new FileButton.
+Returns a new HTMLButtonElement, modified to behave as described above.
 
 ## Setup
 
